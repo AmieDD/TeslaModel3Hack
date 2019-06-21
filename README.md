@@ -1,5 +1,7 @@
 # Tesla Model 3 Body Transponder Chip Hack
 All the ramblings for my Tesla Model 3 for my body hacking implants. Goal is to be able to start my Tesla Model 3 with my chip implant in hand. WIP (work in progress)
+![Tesla Bio Implant](https://github.com/AmieDD/TeslaModel3Hack/blob/master/Photo_Logs/TeslaFlex_Implant.jpg)
+
 
 **PROJECT UPDATE LOGS ON [HACKADAY.IO](https://hackaday.io/project/162200-bio-implant-chip-tesla-model-3-hack)**
 
