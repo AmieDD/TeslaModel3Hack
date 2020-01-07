@@ -5,6 +5,8 @@ All the ramblings for my Tesla Model 3 for my body hacking implants. Goal is to 
 
 **PROJECT UPDATE LOGS ON [HACKADAY.IO](https://hackaday.io/project/162200-bio-implant-chip-tesla-model-3-hack)**
 
+[![](http://img.youtube.com/vi/GznE6tonlYU/0.jpg)](http://www.youtube.com/watch?v=GznE6tonlYU "Tesla Model 3 Chip Implant")
+
 ![dev jokes](https://github.com/AmieDD/TeslaModel3Hack/blob/master/codecomments.png)
 Tesla Model 3 Transponder Hack
 
@@ -178,13 +180,4 @@ Version: 0.42
 Contributors
 
 
-Name
-Title
-Web
-Email
-Twitter
- Amie DD.
-Magical Unicorn Software Engineer
- www.amiedd.com
- amie@amiedd.com
-@amiedoubled
+
