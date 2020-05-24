@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AmieDD",
+      "name": "Amie DD",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7669428?v=4",
+      "profile": "http://www.amiedd.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "TeslaModel3Hack",
+  "projectOwner": "AmieDD",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
