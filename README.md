@@ -2,11 +2,15 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-All the ramblings for my Tesla Model 3 for my body hacking implants. Goal is to be able to start my Tesla Model 3 with my chip implant in hand. WIP (work in progress)
+All the ramblings for my Tesla Model 3 for my body hacking implants. Goal is to be able to start my Tesla Model 3 with my chip implant in hand.
 ![Tesla Bio Implant](https://github.com/AmieDD/TeslaModel3Hack/blob/master/Photo_Logs/TeslaFlex_Implant.jpg)
 
 
 **PROJECT UPDATE LOGS ON [HACKADAY.IO](https://hackaday.io/project/162200-bio-implant-chip-tesla-model-3-hack)**
+
+Install video **Warning: There is Blood**
+
+[![](http://img.youtube.com/vi/eeSGvgB-oK8/0.jpg)](http://www.youtube.com/watch?v=eeSGvgB-oK8 "Hack Tesla Model 3 Chip Implant")
 
 [![](http://img.youtube.com/vi/GznE6tonlYU/0.jpg)](http://www.youtube.com/watch?v=GznE6tonlYU "Tesla Model 3 Chip Implant")
 
